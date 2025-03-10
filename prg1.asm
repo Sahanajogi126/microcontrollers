@@ -1,4 +1,4 @@
- AREA lab1,CODE,READONLY
+ AREA prg1,CODE,READONLY
 START
        MOV R0,#0
        MOV R1,#1
